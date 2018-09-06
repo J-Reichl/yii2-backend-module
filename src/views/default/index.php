@@ -43,7 +43,7 @@ $this->title = "Dashboard";
                 <div class="small-box bg-gray">
                     <div class="inner">
                         <h3>
-                            <?= \Yii::$app->user->identityClass::find()->count() ?>
+                            -
                         </h3>
 
                         <p>
